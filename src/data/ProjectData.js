@@ -48,13 +48,15 @@ export const stackList = [
     name: "Bootstrap",
   },
   {
-    img: "/bridge.png",
+    img: "/nodejs.png",
     name: "Nodejs",
   },
   {
-    img: "/bridge.png",
+    img: "/mysql.png",
     name: "Mysql",
-  }
+  },
+
+
 
 
 ];
