@@ -47,5 +47,14 @@ export const stackList = [
     img: "/bridge.png",
     name: "Bootstrap",
   },
+  {
+    img: "/bridge.png",
+    name: "Nodejs",
+  },
+  {
+    img: "/bridge.png",
+    name: "Mysql",
+  }
+
 
 ];
