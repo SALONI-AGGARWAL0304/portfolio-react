@@ -1,12 +1,20 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/help.png",
-    title: "HelpRight",
-    description: "Platform where volunteers meet",
-    tech_stack: "Html, Css, Javascript , React , Django ",
-    github_url: "https://chhawinder.github.io/HelpRight_main2/",
-    demo_url: "https://chhawinder.github.io/HelpRight_main2/",
+    img: "/image1.png",
+    title: "MatchMaker",
+    description: "Platform where you can find match",
+    tech_stack: "Html, Css, Javascript , Jquery , BootStrap , AJAX , Nodejs, Expressjs , AngularJs , Mysql",
+    github_url: "https://github.com/SALONI-AGGARWAL0304/MathMacker",
+    demo_url: "https://mathmackersss.onrender.com/",
+  },
+  {
+    img: "/image.png",
+    title: "JobMatchUp",
+    description: "Platform where you can find Job",
+    tech_stack: "Html, Css, Javascript , Jquery , BootStrap , AJAX , Nodejs, Expressjs , AngularJs , Mysql",
+    github_url: "https://github.com/SALONI-AGGARWAL0304/JobMatchUp",
+    demo_url: " https://jobmatchup.onrender.com",
   },
   {
     img: "/fokus.png",
